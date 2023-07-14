@@ -1,0 +1,15 @@
+node_modules
+bower_components
+__pycache__
+*.pyc
+bin
+obj
+*.db
+*.sqlite3
+.vscode
+dist
+migrations
+bangazonenv
+winterapi
+media
+.env

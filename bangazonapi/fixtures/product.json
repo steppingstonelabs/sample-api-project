@@ -1,0 +1,1401 @@
+[{
+    "model": "bangazonapi.product",
+    "pk": 1,
+    "fields": {
+      "name": "Chocolate - Compound Coating",
+      "customer_id": 64,
+      "price": 20.16,
+      "description": "2001 Chevrolet",
+      "quantity": 3,
+      "created_date": "2018-12-28",
+      "category_id": 2,
+      "location": "Sembakung",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 2,
+    "fields": {
+      "name": "Oil - Peanut",
+      "customer_id": 77,
+      "price": 20.67,
+      "description": "1999 Porsche",
+      "quantity": 3,
+      "created_date": "2019-05-10",
+      "category_id": 2,
+      "location": "Cocieri",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 3,
+    "fields": {
+      "name": "Chocolate - Liqueur Cups With Foil",
+      "customer_id": 40,
+      "price": 7.83,
+      "description": "2007 BMW",
+      "quantity": 2,
+      "created_date": "2019-01-09",
+      "category_id": 2,
+      "location": "Wentang",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 4,
+    "fields": {
+      "name": "Nestea - Ice Tea, Diet",
+      "customer_id": 66,
+      "price": 21.25,
+      "description": "1993 Isuzu",
+      "quantity": 2,
+      "created_date": "2019-04-17",
+      "category_id": 2,
+      "location": "Stockholm",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 5,
+    "fields": {
+      "name": "Bagel - Whole White Sesame",
+      "customer_id": 69,
+      "price": 8.39,
+      "description": "2010 Suzuki",
+      "quantity": 4,
+      "created_date": "2019-08-12",
+      "category_id": 2,
+      "location": "Gucheng",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 6,
+    "fields": {
+      "name": "Wine - Red, Lurton Merlot De",
+      "customer_id": 86,
+      "price": 25.35,
+      "description": "1999 Dodge",
+      "quantity": 4,
+      "created_date": "2019-08-16",
+      "category_id": 2,
+      "location": "Järna",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 7,
+    "fields": {
+      "name": "Wine - Beaujolais Villages",
+      "customer_id": 92,
+      "price": 4.89,
+      "description": "1993 Dodge",
+      "quantity": 1,
+      "created_date": "2018-11-22",
+      "category_id": 2,
+      "location": "Tiron",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 8,
+    "fields": {
+      "name": "Yeast Dry - Fermipan",
+      "customer_id": 33,
+      "price": 20.95,
+      "description": "1999 Ford",
+      "quantity": 3,
+      "created_date": "2019-09-26",
+      "category_id": 2,
+      "location": "Fenoarivo Atsinanana",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 9,
+    "fields": {
+      "name": "Sugar Thermometer",
+      "customer_id": 8,
+      "price": 5.59,
+      "description": "2012 Toyota",
+      "quantity": 1,
+      "created_date": "2019-01-13",
+      "category_id": 2,
+      "location": "Ramanavichy",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 10,
+    "fields": {
+      "name": "Spinach - Spinach Leaf",
+      "customer_id": 29,
+      "price": 20.27,
+      "description": "1987 Audi",
+      "quantity": 4,
+      "created_date": "2019-04-23",
+      "category_id": 2,
+      "location": "West End",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 11,
+    "fields": {
+      "name": "Bread - Wheat Baguette",
+      "customer_id": 87,
+      "price": 7.46,
+      "description": "1999 Dodge",
+      "quantity": 2,
+      "created_date": "2019-05-05",
+      "category_id": 2,
+      "location": "Yuewan",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 12,
+    "fields": {
+      "name": "Bread - White, Sliced",
+      "customer_id": 37,
+      "price": 24.15,
+      "description": "2008 Mercedes-Benz",
+      "quantity": 3,
+      "created_date": "2018-12-14",
+      "category_id": 2,
+      "location": "Washington",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 13,
+    "fields": {
+      "name": "Pastry - Mini French Pastries",
+      "customer_id": 72,
+      "price": 6.05,
+      "description": "1985 Honda",
+      "quantity": 3,
+      "created_date": "2019-07-22",
+      "category_id": 2,
+      "location": "Daliuhao",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 14,
+    "fields": {
+      "name": "Icecream Cone - Areo Chocolate",
+      "customer_id": 84,
+      "price": 9.09,
+      "description": "2004 Suzuki",
+      "quantity": 3,
+      "created_date": "2019-03-08",
+      "category_id": 2,
+      "location": "Pengfang",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 15,
+    "fields": {
+      "name": "Juice - Orange 1.89l",
+      "customer_id": 91,
+      "price": 22.76,
+      "description": "1986 Mercury",
+      "quantity": 1,
+      "created_date": "2019-09-21",
+      "category_id": 2,
+      "location": "Oula Xiuma",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 16,
+    "fields": {
+      "name": "Piping Jelly - All Colours",
+      "customer_id": 44,
+      "price": 7.14,
+      "description": "2005 Ford",
+      "quantity": 1,
+      "created_date": "2019-05-29",
+      "category_id": 2,
+      "location": "Hong’an",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 17,
+    "fields": {
+      "name": "Arizona - Plum Green Tea",
+      "customer_id": 65,
+      "price": 15.46,
+      "description": "1986 Pontiac",
+      "quantity": 1,
+      "created_date": "2018-10-22",
+      "category_id": 2,
+      "location": "San Rafael Oriente",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 18,
+    "fields": {
+      "name": "Butter Balls Salted",
+      "customer_id": 27,
+      "price": 19.65,
+      "description": "2007 Dodge",
+      "quantity": 4,
+      "created_date": "2019-01-25",
+      "category_id": 2,
+      "location": "Sukaraja",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 19,
+    "fields": {
+      "name": "Olives - Morracan Dired",
+      "customer_id": 96,
+      "price": 20.6,
+      "description": "1999 Toyota",
+      "quantity": 4,
+      "created_date": "2018-11-01",
+      "category_id": 2,
+      "location": "Gaoliang",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 20,
+    "fields": {
+      "name": "Schnappes Peppermint - Walker",
+      "customer_id": 62,
+      "price": 8.25,
+      "description": "1997 Mazda",
+      "quantity": 1,
+      "created_date": "2019-05-06",
+      "category_id": 2,
+      "location": "Sorinomo",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 21,
+    "fields": {
+      "name": "Gatorade - Fruit Punch",
+      "customer_id": 74,
+      "price": 4.3,
+      "description": "1997 Mazda",
+      "quantity": 4,
+      "created_date": "2018-11-29",
+      "category_id": 2,
+      "location": "Huaguo",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 22,
+    "fields": {
+      "name": "Cake - Cheese Cake 9 Inch",
+      "customer_id": 92,
+      "price": 31.91,
+      "description": "2005 BMW",
+      "quantity": 4,
+      "created_date": "2018-10-29",
+      "category_id": 2,
+      "location": "Dadiharja",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 23,
+    "fields": {
+      "name": "Energy Drink - Franks Original",
+      "customer_id": 58,
+      "price": 15.8,
+      "description": "1990 Acura",
+      "quantity": 1,
+      "created_date": "2019-02-03",
+      "category_id": 2,
+      "location": "Ocote Paulino",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 24,
+    "fields": {
+      "name": "Wine - Mondavi Coastal Private",
+      "customer_id": 8,
+      "price": 29.03,
+      "description": "2009 Acura",
+      "quantity": 3,
+      "created_date": "2019-08-15",
+      "category_id": 2,
+      "location": "Salem",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 25,
+    "fields": {
+      "name": "Plasticforkblack",
+      "customer_id": 27,
+      "price": 19.29,
+      "description": "1993 Mercedes-Benz",
+      "quantity": 3,
+      "created_date": "2019-05-31",
+      "category_id": 2,
+      "location": "Kanggye-si",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 26,
+    "fields": {
+      "name": "Pastrami",
+      "customer_id": 34,
+      "price": 6.16,
+      "description": "1994 Dodge",
+      "quantity": 3,
+      "created_date": "2019-07-03",
+      "category_id": 2,
+      "location": "Jetak Kulon",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 27,
+    "fields": {
+      "name": "Juice - Prune",
+      "customer_id": 22,
+      "price": 26.34,
+      "description": "2011 Mercedes-Benz",
+      "quantity": 3,
+      "created_date": "2018-10-17",
+      "category_id": 2,
+      "location": "Aveleda",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 28,
+    "fields": {
+      "name": "Bread - Raisin Walnut Oval",
+      "customer_id": 34,
+      "price": 28.07,
+      "description": "2000 Cadillac",
+      "quantity": 3,
+      "created_date": "2019-08-07",
+      "category_id": 2,
+      "location": "Kozloduy",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 29,
+    "fields": {
+      "name": "Chocolate Bar - Smarties",
+      "customer_id": 71,
+      "price": 10.1,
+      "description": "2000 Dodge",
+      "quantity": 2,
+      "created_date": "2019-09-14",
+      "category_id": 2,
+      "location": "Cartagena del Chairá",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 30,
+    "fields": {
+      "name": "Salmon Atl.whole 8 - 10 Lb",
+      "customer_id": 78,
+      "price": 18.87,
+      "description": "2012 Nissan",
+      "quantity": 4,
+      "created_date": "2018-11-30",
+      "category_id": 2,
+      "location": "Khatsyezhyna",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 31,
+    "fields": {
+      "name": "Oats Large Flake",
+      "customer_id": 18,
+      "price": 18.49,
+      "description": "1993 BMW",
+      "quantity": 2,
+      "created_date": "2019-03-31",
+      "category_id": 2,
+      "location": "Chicago",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 32,
+    "fields": {
+      "name": "Appetizer - Crab And Brie",
+      "customer_id": 41,
+      "price": 4.43,
+      "description": "2010 Dodge",
+      "quantity": 4,
+      "created_date": "2019-04-09",
+      "category_id": 2,
+      "location": "Campos Novos",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 33,
+    "fields": {
+      "name": "Vanilla Beans",
+      "customer_id": 62,
+      "price": 22.2,
+      "description": "2006 Chrysler",
+      "quantity": 1,
+      "created_date": "2019-04-17",
+      "category_id": 2,
+      "location": "Kandava",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 34,
+    "fields": {
+      "name": "Cake Circle, Foil, Scallop",
+      "customer_id": 68,
+      "price": 17.23,
+      "description": "2008 MINI",
+      "quantity": 3,
+      "created_date": "2019-07-20",
+      "category_id": 2,
+      "location": "Siemiątkowo",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 35,
+    "fields": {
+      "name": "Flower - Dish Garden",
+      "customer_id": 68,
+      "price": 12.21,
+      "description": "2009 Aptera",
+      "quantity": 4,
+      "created_date": "2019-07-15",
+      "category_id": 2,
+      "location": "Qaryat al Qābil",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 36,
+    "fields": {
+      "name": "Wine - Remy Pannier Rose",
+      "customer_id": 87,
+      "price": 19.66,
+      "description": "2010 GMC",
+      "quantity": 2,
+      "created_date": "2019-05-16",
+      "category_id": 2,
+      "location": "Kota Kinabalu",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 37,
+    "fields": {
+      "name": "Muffin Mix - Chocolate Chip",
+      "customer_id": 12,
+      "price": 19.06,
+      "description": "2009 Mercedes-Benz",
+      "quantity": 4,
+      "created_date": "2019-10-02",
+      "category_id": 2,
+      "location": "Gaobu",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 38,
+    "fields": {
+      "name": "Coffee - Frthy Coffee Crisp",
+      "customer_id": 85,
+      "price": 10.12,
+      "description": "2005 Saturn",
+      "quantity": 2,
+      "created_date": "2019-02-13",
+      "category_id": 2,
+      "location": "Loma Bonita",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 39,
+    "fields": {
+      "name": "Chilli Paste, Ginger Garlic",
+      "customer_id": 58,
+      "price": 25.49,
+      "description": "1995 Hyundai",
+      "quantity": 4,
+      "created_date": "2019-05-30",
+      "category_id": 2,
+      "location": "Kotakaya Dua",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 40,
+    "fields": {
+      "name": "Tart Shells - Sweet, 2",
+      "customer_id": 81,
+      "price": 21.77,
+      "description": "2012 Acura",
+      "quantity": 4,
+      "created_date": "2018-10-27",
+      "category_id": 2,
+      "location": "Paprotnia",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 41,
+    "fields": {
+      "name": "Muffin Batt - Blueberry Passion",
+      "customer_id": 71,
+      "price": 17.18,
+      "description": "2008 Chrysler",
+      "quantity": 2,
+      "created_date": "2018-10-28",
+      "category_id": 2,
+      "location": "Yufrus",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 42,
+    "fields": {
+      "name": "Chickensplit Half",
+      "customer_id": 84,
+      "price": 16.64,
+      "description": "1991 Buick",
+      "quantity": 4,
+      "created_date": "2019-05-30",
+      "category_id": 2,
+      "location": "Niny",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 43,
+    "fields": {
+      "name": "Calypso - Pineapple Passion",
+      "customer_id": 8,
+      "price": 14.02,
+      "description": "1999 GMC",
+      "quantity": 3,
+      "created_date": "2019-05-11",
+      "category_id": 2,
+      "location": "Cakungsari",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 44,
+    "fields": {
+      "name": "Potatoes - Idaho 100 Count",
+      "customer_id": 91,
+      "price": 25.65,
+      "description": "2006 Jaguar",
+      "quantity": 3,
+      "created_date": "2019-05-13",
+      "category_id": 2,
+      "location": "Sitajara",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 45,
+    "fields": {
+      "name": "Gingerale - Diet - Schweppes",
+      "customer_id": 67,
+      "price": 15.74,
+      "description": "1985 Audi",
+      "quantity": 1,
+      "created_date": "2019-05-12",
+      "category_id": 2,
+      "location": "Lincheng",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 46,
+    "fields": {
+      "name": "Bamboo Shoots - Sliced",
+      "customer_id": 95,
+      "price": 3.27,
+      "description": "2011 Chevrolet",
+      "quantity": 1,
+      "created_date": "2019-03-23",
+      "category_id": 2,
+      "location": "Jiwei",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 47,
+    "fields": {
+      "name": "Roe - Flying Fish",
+      "customer_id": 42,
+      "price": 3.19,
+      "description": "2006 Chevrolet",
+      "quantity": 1,
+      "created_date": "2019-05-31",
+      "category_id": 2,
+      "location": "Czernice Borowe",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 48,
+    "fields": {
+      "name": "Soup - Chicken And Wild Rice",
+      "customer_id": 89,
+      "price": 26.1,
+      "description": "2009 Nissan",
+      "quantity": 3,
+      "created_date": "2019-06-27",
+      "category_id": 2,
+      "location": "Ciudad Choluteca",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 49,
+    "fields": {
+      "name": "Wine La Vielle Ferme Cote Du",
+      "customer_id": 92,
+      "price": 3.79,
+      "description": "2009 Aptera",
+      "quantity": 2,
+      "created_date": "2019-06-15",
+      "category_id": 2,
+      "location": "Hongguang",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 50,
+    "fields": {
+      "name": "Mushroom - Portebello",
+      "customer_id": 81,
+      "price": 27.17,
+      "description": "1988 Mazda",
+      "quantity": 1,
+      "created_date": "2019-05-05",
+      "category_id": 2,
+      "location": "Cacequi",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 51,
+    "fields": {
+      "name": "Broccoli - Fresh",
+      "customer_id": 87,
+      "price": 25.44,
+      "description": "2004 Chevrolet",
+      "quantity": 3,
+      "created_date": "2019-02-21",
+      "category_id": 2,
+      "location": "San Miguel",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 52,
+    "fields": {
+      "name": "Lamb - Loin, Trimmed, Boneless",
+      "customer_id": 39,
+      "price": 4.57,
+      "description": "1994 Mitsubishi",
+      "quantity": 2,
+      "created_date": "2019-01-15",
+      "category_id": 2,
+      "location": "Gävle",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 53,
+    "fields": {
+      "name": "Brandy Apricot",
+      "customer_id": 71,
+      "price": 21.83,
+      "description": "2005 Volkswagen",
+      "quantity": 4,
+      "created_date": "2018-11-27",
+      "category_id": 2,
+      "location": "Uppsala",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 54,
+    "fields": {
+      "name": "Pork - Butt, Boneless",
+      "customer_id": 77,
+      "price": 10.6,
+      "description": "1992 Buick",
+      "quantity": 2,
+      "created_date": "2019-05-13",
+      "category_id": 2,
+      "location": "Svalöv",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 55,
+    "fields": {
+      "name": "Gatorade - Cool Blue Raspberry",
+      "customer_id": 33,
+      "price": 11.15,
+      "description": "2002 Chevrolet",
+      "quantity": 2,
+      "created_date": "2019-07-09",
+      "category_id": 2,
+      "location": "Accha",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 56,
+    "fields": {
+      "name": "Smirnoff Green Apple Twist",
+      "customer_id": 19,
+      "price": 16.89,
+      "description": "2002 Mercury",
+      "quantity": 3,
+      "created_date": "2019-08-25",
+      "category_id": 2,
+      "location": "Besisahar",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 57,
+    "fields": {
+      "name": "Syrup - Kahlua Chocolate",
+      "customer_id": 75,
+      "price": 31.67,
+      "description": "2007 Mazda",
+      "quantity": 1,
+      "created_date": "2019-03-22",
+      "category_id": 2,
+      "location": "Qorao’zak",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 58,
+    "fields": {
+      "name": "Cheese - Brie Roitelet",
+      "customer_id": 74,
+      "price": 22.52,
+      "description": "1994 Dodge",
+      "quantity": 1,
+      "created_date": "2018-10-22",
+      "category_id": 2,
+      "location": "Évreux",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 59,
+    "fields": {
+      "name": "Frangelico",
+      "customer_id": 34,
+      "price": 18.81,
+      "description": "2011 Infiniti",
+      "quantity": 3,
+      "created_date": "2019-02-24",
+      "category_id": 2,
+      "location": "Zhendong",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 60,
+    "fields": {
+      "name": "Soup - Campbells Beef Noodle",
+      "customer_id": 94,
+      "price": 28.47,
+      "description": "1993 Ford",
+      "quantity": 1,
+      "created_date": "2019-06-26",
+      "category_id": 2,
+      "location": "Guam Government House",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 61,
+    "fields": {
+      "name": "Wine - Cousino Macul Antiguas",
+      "customer_id": 94,
+      "price": 26.21,
+      "description": "2000 Pontiac",
+      "quantity": 1,
+      "created_date": "2019-07-15",
+      "category_id": 2,
+      "location": "Hanting",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 62,
+    "fields": {
+      "name": "Milk 2% 500 Ml",
+      "customer_id": 99,
+      "price": 11.16,
+      "description": "2007 Hyundai",
+      "quantity": 1,
+      "created_date": "2019-02-25",
+      "category_id": 2,
+      "location": "Silago",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 63,
+    "fields": {
+      "name": "Arctic Char - Fillets",
+      "customer_id": 57,
+      "price": 2.57,
+      "description": "2011 Ford",
+      "quantity": 3,
+      "created_date": "2019-01-14",
+      "category_id": 2,
+      "location": "Gonça",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 64,
+    "fields": {
+      "name": "Towel Dispenser",
+      "customer_id": 48,
+      "price": 22.35,
+      "description": "1998 Ford",
+      "quantity": 2,
+      "created_date": "2019-09-16",
+      "category_id": 2,
+      "location": "Gudong",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 65,
+    "fields": {
+      "name": "Appetizer - Escargot Puff",
+      "customer_id": 2,
+      "price": 25.54,
+      "description": "2007 Mercedes-Benz",
+      "quantity": 1,
+      "created_date": "2019-05-02",
+      "category_id": 2,
+      "location": "Itapetinga",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 66,
+    "fields": {
+      "name": "Cake Circle, Paprus",
+      "customer_id": 1,
+      "price": 14.74,
+      "description": "2007 Ford",
+      "quantity": 1,
+      "created_date": "2019-04-29",
+      "category_id": 2,
+      "location": "Norrtälje",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 67,
+    "fields": {
+      "name": "Venison - Ground",
+      "customer_id": 82,
+      "price": 15.64,
+      "description": "2006 Ford",
+      "quantity": 3,
+      "created_date": "2019-04-01",
+      "category_id": 2,
+      "location": "Baoluan",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 68,
+    "fields": {
+      "name": "Soup Campbells - Tomato Bisque",
+      "customer_id": 72,
+      "price": 5.66,
+      "description": "1997 Mercury",
+      "quantity": 2,
+      "created_date": "2018-10-14",
+      "category_id": 2,
+      "location": "Komyshnya",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 69,
+    "fields": {
+      "name": "Wine - Carmenere Casillero Del",
+      "customer_id": 35,
+      "price": 6.99,
+      "description": "2006 GMC",
+      "quantity": 1,
+      "created_date": "2019-06-09",
+      "category_id": 2,
+      "location": "Le Pontet",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 70,
+    "fields": {
+      "name": "Propel Sport Drink",
+      "customer_id": 87,
+      "price": 27.29,
+      "description": "1985 Mitsubishi",
+      "quantity": 3,
+      "created_date": "2018-10-28",
+      "category_id": 2,
+      "location": "Florencia",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 71,
+    "fields": {
+      "name": "External Supplier",
+      "customer_id": 34,
+      "price": 20.91,
+      "description": "2009 Pontiac",
+      "quantity": 4,
+      "created_date": "2019-04-28",
+      "category_id": 2,
+      "location": "Kolochava",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 72,
+    "fields": {
+      "name": "Onions - Red",
+      "customer_id": 90,
+      "price": 26.5,
+      "description": "1970 Mercury",
+      "quantity": 2,
+      "created_date": "2018-10-28",
+      "category_id": 2,
+      "location": "Murów",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 73,
+    "fields": {
+      "name": "Nut - Peanut, Roasted",
+      "customer_id": 26,
+      "price": 20.19,
+      "description": "2004 Saturn",
+      "quantity": 4,
+      "created_date": "2019-03-22",
+      "category_id": 2,
+      "location": "Chelgard",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 74,
+    "fields": {
+      "name": "Cheese - Sheep Milk",
+      "customer_id": 98,
+      "price": 12.47,
+      "description": "2003 BMW",
+      "quantity": 1,
+      "created_date": "2019-04-04",
+      "category_id": 2,
+      "location": "Luzern",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 75,
+    "fields": {
+      "name": "Flower - Commercial Spider",
+      "customer_id": 93,
+      "price": 21.94,
+      "description": "1992 Volkswagen",
+      "quantity": 1,
+      "created_date": "2018-11-10",
+      "category_id": 2,
+      "location": "Pirogovo",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 76,
+    "fields": {
+      "name": "Eel Fresh",
+      "customer_id": 22,
+      "price": 8.32,
+      "description": "1989 Pontiac",
+      "quantity": 1,
+      "created_date": "2019-07-20",
+      "category_id": 2,
+      "location": "Chita",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 77,
+    "fields": {
+      "name": "Wine - Harrow Estates, Vidal",
+      "customer_id": 36,
+      "price": 29.16,
+      "description": "2007 Hyundai",
+      "quantity": 3,
+      "created_date": "2019-08-06",
+      "category_id": 2,
+      "location": "Lianghu",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 78,
+    "fields": {
+      "name": "Hummus - Spread",
+      "customer_id": 29,
+      "price": 21.65,
+      "description": "2008 Chrysler",
+      "quantity": 3,
+      "created_date": "2019-04-29",
+      "category_id": 2,
+      "location": "Pingpo",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 79,
+    "fields": {
+      "name": "Ecolab Silver Fusion",
+      "customer_id": 82,
+      "price": 15.76,
+      "description": "2008 Dodge",
+      "quantity": 2,
+      "created_date": "2019-09-27",
+      "category_id": 2,
+      "location": "Changjiang",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 80,
+    "fields": {
+      "name": "Oven Mitts 17 Inch",
+      "customer_id": 55,
+      "price": 11.82,
+      "description": "2010 Lexus",
+      "quantity": 3,
+      "created_date": "2019-09-28",
+      "category_id": 2,
+      "location": "San Juan de Dios",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 81,
+    "fields": {
+      "name": "Veal - Knuckle",
+      "customer_id": 90,
+      "price": 31.35,
+      "description": "2012 Acura",
+      "quantity": 2,
+      "created_date": "2019-01-04",
+      "category_id": 2,
+      "location": "Glafirovka",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 82,
+    "fields": {
+      "name": "Cookie Chocolate Chip With",
+      "customer_id": 76,
+      "price": 9.9,
+      "description": "1994 Mercedes-Benz",
+      "quantity": 1,
+      "created_date": "2019-09-28",
+      "category_id": 2,
+      "location": "Paris 05",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 83,
+    "fields": {
+      "name": "Flour - Chickpea",
+      "customer_id": 42,
+      "price": 13.09,
+      "description": "2012 Bentley",
+      "quantity": 4,
+      "created_date": "2019-08-05",
+      "category_id": 2,
+      "location": "München",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 84,
+    "fields": {
+      "name": "Apricots - Dried",
+      "customer_id": 18,
+      "price": 2.84,
+      "description": "2007 Hyundai",
+      "quantity": 1,
+      "created_date": "2019-09-05",
+      "category_id": 2,
+      "location": "Ribafria",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 85,
+    "fields": {
+      "name": "Wine - Toasted Head",
+      "customer_id": 95,
+      "price": 28.62,
+      "description": "1997 Chrysler",
+      "quantity": 4,
+      "created_date": "2019-04-22",
+      "category_id": 2,
+      "location": "Ibshawāy",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 86,
+    "fields": {
+      "name": "Cookies - Englishbay Oatmeal",
+      "customer_id": 51,
+      "price": 24.74,
+      "description": "2005 Chevrolet",
+      "quantity": 4,
+      "created_date": "2019-07-23",
+      "category_id": 2,
+      "location": "Granada",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 87,
+    "fields": {
+      "name": "Sausage - Chorizo",
+      "customer_id": 10,
+      "price": 22.68,
+      "description": "2010 GMC",
+      "quantity": 2,
+      "created_date": "2019-07-02",
+      "category_id": 2,
+      "location": "Gromnik",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 88,
+    "fields": {
+      "name": "Paper Towel Touchless",
+      "customer_id": 28,
+      "price": 9.38,
+      "description": "1987 Subaru",
+      "quantity": 4,
+      "created_date": "2019-05-13",
+      "category_id": 2,
+      "location": "Ridder",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 89,
+    "fields": {
+      "name": "Pate - Peppercorn",
+      "customer_id": 98,
+      "price": 13.14,
+      "description": "2001 GMC",
+      "quantity": 1,
+      "created_date": "2019-08-03",
+      "category_id": 2,
+      "location": "Sanban",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 90,
+    "fields": {
+      "name": "Tomatoes Tear Drop Yellow",
+      "customer_id": 16,
+      "price": 18.23,
+      "description": "1999 GMC",
+      "quantity": 4,
+      "created_date": "2019-02-27",
+      "category_id": 2,
+      "location": "Yanfolila",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 91,
+    "fields": {
+      "name": "Pur Value",
+      "customer_id": 55,
+      "price": 23.74,
+      "description": "2001 Honda",
+      "quantity": 2,
+      "created_date": "2019-03-31",
+      "category_id": 2,
+      "location": "Fukui-shi",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 92,
+    "fields": {
+      "name": "Wine - Shiraz South Eastern",
+      "customer_id": 46,
+      "price": 27.03,
+      "description": "2007 Ford",
+      "quantity": 1,
+      "created_date": "2019-08-10",
+      "category_id": 2,
+      "location": "Villefranche-sur-Mer",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 93,
+    "fields": {
+      "name": "Snapple Lemon Tea",
+      "customer_id": 12,
+      "price": 28.81,
+      "description": "1986 Chevrolet",
+      "quantity": 2,
+      "created_date": "2019-04-08",
+      "category_id": 2,
+      "location": "Kokterek",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 94,
+    "fields": {
+      "name": "Cleaner - Bleach",
+      "customer_id": 12,
+      "price": 23.32,
+      "description": "2004 BMW",
+      "quantity": 3,
+      "created_date": "2018-11-07",
+      "category_id": 2,
+      "location": "Temperak",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 95,
+    "fields": {
+      "name": "Wine - Jackson Triggs Okonagan",
+      "customer_id": 8,
+      "price": 20.15,
+      "description": "1998 Lexus",
+      "quantity": 3,
+      "created_date": "2019-03-08",
+      "category_id": 2,
+      "location": "Virovitica",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 96,
+    "fields": {
+      "name": "Cake - Dulce De Leche",
+      "customer_id": 9,
+      "price": 24.7,
+      "description": "2009 Volvo",
+      "quantity": 4,
+      "created_date": "2018-11-05",
+      "category_id": 2,
+      "location": "Namballe",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 97,
+    "fields": {
+      "name": "Garam Marsala",
+      "customer_id": 43,
+      "price": 29.3,
+      "description": "1999 Audi",
+      "quantity": 2,
+      "created_date": "2019-04-07",
+      "category_id": 2,
+      "location": "Henglishan",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 98,
+    "fields": {
+      "name": "Sun - Dried Tomatoes",
+      "customer_id": 75,
+      "price": 31.02,
+      "description": "1999 Ford",
+      "quantity": 2,
+      "created_date": "2019-09-12",
+      "category_id": 2,
+      "location": "Melgar",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 99,
+    "fields": {
+      "name": "Wine - Magnotta - Pinot Gris Sr",
+      "customer_id": 76,
+      "price": 18.05,
+      "description": "2008 Lincoln",
+      "quantity": 1,
+      "created_date": "2019-05-27",
+      "category_id": 2,
+      "location": "Lingkou",
+      "image_path": null
+    }
+  }, {
+    "model": "bangazonapi.product",
+    "pk": 100,
+    "fields": {
+      "name": "Pernod",
+      "customer_id": 27,
+      "price": 23.38,
+      "description": "2001 Ford",
+      "quantity": 1,
+      "created_date": "2018-11-07",
+      "category_id": 2,
+      "location": "Kaytitinga",
+      "image_path": null
+    }
+  }]
